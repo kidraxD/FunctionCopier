@@ -7,7 +7,8 @@
 #include <memory>
 #include <stdexcept>
 
-class FunctionCopier {
+class FunctionCopier
+{
 public:
     FunctionCopier();
     ~FunctionCopier() = default;
